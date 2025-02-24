@@ -22,6 +22,8 @@ P2Pump is a decentralized wellness and fitness application that leverages **Peer
   - AWS EC2 (Edge Device Emulation)
   - Azure ML (Global Model Aggregation)
   - Google Cloud Storage (Model Backup)
+ 
+![App Architecture](./P2Pump.png)
 
 ## Prerequisites
 Ensure you have the following installed:
